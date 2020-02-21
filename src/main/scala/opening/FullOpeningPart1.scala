@@ -1307,7 +1307,7 @@ new FullOpening("B51", "Sicilian Defense: Canal Attack, Moscow Gambit", "r2qkb1r
 new FullOpening("B51", "Sicilian Defense: Canal-Sokolsky Attack", "rnbqkbnr/pp2pppp/3p4/1Bp5/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq"),
 new FullOpening("B52", "Sicilian Defense: Canal Attack, Dorfman Gambit", "r2qkbnr/pp1bpp1p/2np2p1/1Bp1P3/8/5N2/PPPPQPPP/RNB2RK1 b kq"),
 new FullOpening("B52", "Sicilian Defense: Canal Attack, Main Line", "rn1qkbnr/pp1bpppp/3p4/1Bp5/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq"),
-new FullOpening("B52", "Sicilian Defense: Canal-Sokolsky Attack, Sokolsky Variation", "rn2kbnr/pp1qpppp/3p4/2p5/2P1P3/5N2/PP1P1PPP/RNBQK2R b KQkq"),
+new FullOpening("B52", "Sicilian Defense: Moscow Variation, Sokolsky Variation", "rn2kbnr/pp1qpppp/3p4/2p5/2P1P3/5N2/PP1P1PPP/RNBQK2R b KQkq"),
 new FullOpening("B53", "Sicilian Defense: Chekhover Variation", "rnbqkbnr/pp2pppp/3p4/8/3QP3/5N2/PPP2PPP/RNB1KB1R b KQkq"),
 new FullOpening("B53", "Sicilian Defense: Chekhover Variation, Zaitsev Defense", "r1b1kbnr/pp1qpppp/2np4/1B6/3QP3/5N2/PPP2PPP/RNB1K2R w KQkq"),
 new FullOpening("B53", "Sicilian Defense: Modern Variations, Tartakower", "rnbqkbnr/pp2pppp/3p4/8/3pP3/2P2N2/PP3PPP/RNBQKB1R b KQkq"),
